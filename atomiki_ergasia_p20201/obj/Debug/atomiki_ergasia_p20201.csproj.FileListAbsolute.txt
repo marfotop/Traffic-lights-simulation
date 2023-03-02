@@ -1,0 +1,20 @@
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\bin\Debug\atomiki_ergasia_p20201.exe.config
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\bin\Debug\atomiki_ergasia_p20201.exe
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\bin\Debug\atomiki_ergasia_p20201.pdb
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.csprojAssemblyReference.cache
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.Form1.resources
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.Properties.Resources.resources
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.csproj.GenerateResource.cache
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.csproj.CoreCompileInputs.cache
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.exe
+C:\Users\Α\Desktop\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.pdb
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\bin\Debug\atomiki_ergasia_p20201.exe.config
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\bin\Debug\atomiki_ergasia_p20201.exe
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\bin\Debug\atomiki_ergasia_p20201.pdb
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.csproj.AssemblyReference.cache
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.Form1.resources
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.Properties.Resources.resources
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.csproj.GenerateResource.cache
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.csproj.CoreCompileInputs.cache
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.exe
+C:\Users\mariamfotop\Desktop\Unipi\3rd semester\C#\ergasies\atomiki_ergasia1_p20201\atomiki_ergasia_p20201\atomiki_ergasia_p20201\obj\Debug\atomiki_ergasia_p20201.pdb
